@@ -29,5 +29,5 @@
 # Funções Basicas
 * Abrir
 * Salvar
-* Visualiar todos documentos abertos
+* Visualizar todos documentos abertos
 * Novo Documento / abre novos documentos dentro do form principa
