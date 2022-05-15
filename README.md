@@ -19,7 +19,7 @@
 * Adicionar Data/Hora
 * Buscar no Bing
 * Trocar de Fonte
-* Quebrar de Linha auto
+* Quebra de Linha auto
 * Trocar Cor do Fundo
 ##
 
