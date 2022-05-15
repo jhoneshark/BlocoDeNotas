@@ -1,0 +1,24 @@
+C:\Users\jhones\Documents\Aula Thiago Traue\SuperNote\SuperNote\obj\Debug\SuperNote.csproj.AssemblyReference.cache
+C:\Users\jhones\Documents\Aula Thiago Traue\SuperNote\SuperNote\obj\Debug\SuperNote.csproj.SuggestedBindingRedirects.cache
+C:\Users\jhones\Documents\Aula Thiago Traue\SuperNote\SuperNote\obj\Debug\SuperNote.Form1.resources
+C:\Users\jhones\Documents\Aula Thiago Traue\SuperNote\SuperNote\obj\Debug\SuperNote.Properties.Resources.resources
+C:\Users\jhones\Documents\Aula Thiago Traue\SuperNote\SuperNote\obj\Debug\SuperNote.csproj.GenerateResource.cache
+C:\Users\jhones\Documents\Aula Thiago Traue\SuperNote\SuperNote\obj\Debug\SuperNote.csproj.CoreCompileInputs.cache
+C:\Users\jhones\Documents\Aula Thiago Traue\SuperNote\SuperNote\bin\Debug\SuperNote.exe.config
+C:\Users\jhones\Documents\Aula Thiago Traue\SuperNote\SuperNote\bin\Debug\SuperNote.exe
+C:\Users\jhones\Documents\Aula Thiago Traue\SuperNote\SuperNote\bin\Debug\SuperNote.pdb
+C:\Users\jhones\Documents\Aula Thiago Traue\SuperNote\SuperNote\obj\Debug\SuperNote.exe
+C:\Users\jhones\Documents\Aula Thiago Traue\SuperNote\SuperNote\obj\Debug\SuperNote.pdb
+C:\Users\jhones\Downloads\SuperNote\SuperNote\bin\Debug\SuperNote.exe.config
+C:\Users\jhones\Downloads\SuperNote\SuperNote\bin\Debug\SuperNote.exe
+C:\Users\jhones\Downloads\SuperNote\SuperNote\bin\Debug\SuperNote.pdb
+C:\Users\jhones\Downloads\SuperNote\SuperNote\obj\Debug\SuperNote.csproj.AssemblyReference.cache
+C:\Users\jhones\Downloads\SuperNote\SuperNote\obj\Debug\SuperNote.csproj.SuggestedBindingRedirects.cache
+C:\Users\jhones\Downloads\SuperNote\SuperNote\obj\Debug\SuperNote.Form1.resources
+C:\Users\jhones\Downloads\SuperNote\SuperNote\obj\Debug\SuperNote.Properties.Resources.resources
+C:\Users\jhones\Downloads\SuperNote\SuperNote\obj\Debug\SuperNote.csproj.GenerateResource.cache
+C:\Users\jhones\Downloads\SuperNote\SuperNote\obj\Debug\SuperNote.csproj.CoreCompileInputs.cache
+C:\Users\jhones\Downloads\SuperNote\SuperNote\obj\Debug\SuperNote.exe
+C:\Users\jhones\Downloads\SuperNote\SuperNote\obj\Debug\SuperNote.pdb
+C:\Users\jhones\Downloads\SuperNote\SuperNote\obj\Debug\SuperNote.substituir.resources
+C:\Users\jhones\Downloads\SuperNote\SuperNote\obj\Debug\SuperNote.Localizar.resources
