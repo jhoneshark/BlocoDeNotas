@@ -3,7 +3,7 @@
 
 ##
 
-# Funções Basicas
+# Funções Básicas 
 * Novo
 * Abrir
 * Salvar
