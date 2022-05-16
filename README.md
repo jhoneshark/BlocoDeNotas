@@ -30,4 +30,4 @@
 * Abrir
 * Salvar
 * Visualizar todos documentos abertos
-* Novo Documento / abre novos documentos dentro do Form principal
+* Novo Documento / Novos documentos são abertos dentro do Form principal
